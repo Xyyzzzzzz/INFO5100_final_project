@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ImageManagmentMultiFile">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ImageManagmentMultiFile/im4java-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ImageManagmentMultiFile/javaxt-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
